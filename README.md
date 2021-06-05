@@ -8,4 +8,4 @@ Written in Java, this program acts as an interpreter to take python code as an i
 
 ** The output
 
-<a href="url"><img src="https://github.com/rimanov/TankGame/blob/main/resources/results.png" align="center" height="600" width="600" ></a>
+<a href="url"><img src="https://github.com/rimanov/Interpreter/blob/main/resources/result.png" align="center" height="600" width="600" ></a>
